@@ -24,14 +24,11 @@
 ---
 
 ## 📂 Proyectos Destacados
-- [Mensajería en Android](https://github.com/Strulop/mensajeria-android)  
+- [Mensajería en Android](https://github.com/Strulop/Mensajeria-Movil.git)  
   Aplicación móvil desarrollada en Android Studio con Cloud Firestore como base de datos, permitiendo enviar y recibir mensajes en tiempo real.
 
 - [Consulta de Clima con API](https://github.com/Strulop/consulta-clima-api)  
   Aplicación que consume la API del clima para mostrar la temperatura, condiciones actuales y pronósticos futuros. Incluye un diseño funcional y amigable.
-
-- [Diseño Gráfico para Proyectos Digitales](https://github.com/Strulop/diseño-grafico-proyectos) *(Proyecto sugerido)*  
-  Ejemplo de trabajos en diseño gráfico realizados con Photoshop, Illustrator e InDesign, aplicados a proyectos digitales como interfaces y banners.
 
 - [Gestión Agrícola](https://github.com/Strulop/GestionAgricola)  
   Sistema de gestión agrícola desarrollado en HTML y CSS con un enfoque en usabilidad y diseño visual.
