@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Sergio (Strulop)
 🎓 **Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)** en segundo año.  
 💻 Apasionado por el desarrollo de software, el diseño gráfico, y la ciberseguridad.  
-📍 Actualmente resido en Recas, Toledo, y aspiro a cresccvsdvsdfbvsdfabsdfcer profesionalmente en el sector IT.
+📍 Actualmente resido en Recas, Toledo, y aspiro a ser profesionalmente en el sector IT.
 
 ---
 
