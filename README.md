@@ -27,7 +27,7 @@
 - [Mensajería en Android](https://github.com/Strulop/Mensajeria-Movil.git)  
   Aplicación móvil desarrollada en Android Studio con Cloud Firestore como base de datos, permitiendo enviar y recibir mensajes en tiempo real.
 
-- [Consulta de Clima con API](https://github.com/Strulop/consulta-clima-api)  
+- [Consulta de Clima con API](https://github.com/Strulop/Aplicacion-consulta-Clima.git)  
   Aplicación que consume la API del clima para mostrar la temperatura, condiciones actuales y pronósticos futuros. Incluye un diseño funcional y amigable.
 
 - [Gestión Agrícola](https://github.com/Strulop/Aplicacion-de-Gestion-de-Granos.git)  
