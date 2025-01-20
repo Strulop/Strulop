@@ -40,7 +40,7 @@
   Este proyecto es una práctica de creación de páginas web básicas utilizando HTML y CSS. Consiste en una **página principal** con enlaces funcionales que redirigen a una **página de contacto** y viceversa.
 
 - [Aplicacion de Gestion de Usuarios](https://github.com/Strulop/Aplicacion-de-Gestion-de-Usuarios.git) 
-  na aplicación móvil desarrollada en Android Studio que utiliza una **base de datos interna** para gestionar usuarios. Permite iniciar sesión con un nombre de usuario y contraseña o registrarse si no tienes una cuenta.
+  Una aplicación móvil desarrollada en Android Studio que utiliza una **base de datos interna** para gestionar usuarios. Permite iniciar sesión con un nombre de usuario y contraseña o registrarse si no tienes una cuenta.
 
 
 ---
