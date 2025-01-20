@@ -39,6 +39,8 @@
 - [Aplicacion de Gestion de Usuarios](https://github.com/Strulop/Aplicacion-de-Gestion-de-Usuarios.git) 
   Una aplicación móvil desarrollada en Android Studio que utiliza una **base de datos interna** para gestionar usuarios. Permite iniciar sesión con un nombre de usuario y contraseña o registrarse si no tienes una cuenta.
 
+- [Gestión de Cargamento Militar](https://github.com/Strulop/Aplicacion-de-Gestion-de-Usuarios.git) 
+
 
 ---
 
