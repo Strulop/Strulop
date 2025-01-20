@@ -30,7 +30,7 @@
 - [Consulta de Clima con API](https://github.com/Strulop/consulta-clima-api)  
   Aplicación que consume la API del clima para mostrar la temperatura, condiciones actuales y pronósticos futuros. Incluye un diseño funcional y amigable.
 
-- [Gestión Agrícola](https://github.com/Strulop/GestionAgricola)  
+- [Gestión Agrícola](https://github.com/Strulop/Aplicacion-de-Gestion-de-Granos.git)  
   Sistema de gestión agrícola desarrollado en HTML y CSS con un enfoque en usabilidad y diseño visual.
 
 - [Primer pagina Web](https://github.com/Strulop/Primer-Pagina-Web.git)
