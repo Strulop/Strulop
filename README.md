@@ -8,7 +8,7 @@
 ## 💼 Experiencia y Formación
 - **Títulos:**  
   - Formación Profesional de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).  
-  - Formación Profesional en Producción en Industrias Gráficas.  
+  - Formación Profesional en Producción en Industrias de Artes Gráficas.  
 
 - **Áreas de interés y experiencia:**  
   - Desarrollo móvil con Android Studio.  
