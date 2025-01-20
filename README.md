@@ -36,6 +36,9 @@
 - [Gestión Agrícola](https://github.com/Strulop/GestionAgricola)  
   Sistema de gestión agrícola desarrollado en HTML y CSS con un enfoque en usabilidad y diseño visual.
 
+  -[Primer pagina Web](https://github.com/Strulop/Primer-Pagina-Web.git)
+  Este proyecto es una práctica de creación de páginas web básicas utilizando HTML y CSS. Consiste en una **página principal** con enlaces funcionales que redirigen a una **página de contacto** y viceversa.
+
 - [Calculadora en Kotlin](https://github.com/Strulop/calculadora-kotlin) *(Próximamente)*  
   Aplicación móvil para Android que incluye operaciones matemáticas básicas con un diseño funcional.
 
