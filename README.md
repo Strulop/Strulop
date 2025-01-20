@@ -60,4 +60,4 @@
 
 ## 📫 Contáctame
 - **LinkedIn:** [Sergio López (stl88)](https://www.linkedin.com/in/stl88)  
-- **Email:** (mailto:sergiotru88@gmail.com)  
+- **Email:** sergiotru88@gmail.com 
